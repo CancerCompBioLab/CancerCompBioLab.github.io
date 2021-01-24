@@ -21,9 +21,13 @@ __More information:__
 * Twitter: [@seoaneja](https://twitter.com/seoaneja)
 * Email: [seoane.ja@gmail.com](mailto:seoane.ja@gmail.com) or [seoane@stanford.edu](mailto:seoane@stanford.edu) (both work equally well)
 
-***
-
 ## Postdocs
+
+### you?
+
+<img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
+
+## Grad students
 
 ### you?
 
