@@ -26,6 +26,7 @@ __More information:__
 ### you?
 
 <img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
+<br>
 
 ## Grad students
 
