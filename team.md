@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who's who Cancer Computational Biology lab
+title: Team
 excerpt: "Members of the Cancer Computational Biology and their research interests."
 ---
 
@@ -8,7 +8,8 @@ excerpt: "Members of the Cancer Computational Biology and their research interes
 
 ### Jose A. Seoane
 
-<img src="/images/soenae.jpg" alt="Jose A. Seoane" width="50%" align="left" hspace="20" vspace="20">
+<img src="/images/seoane.jpg" alt="Jose A. Seoane" width="50%" align="left" hspace="20" vspace="20">
+
 
 Jose is...
 
