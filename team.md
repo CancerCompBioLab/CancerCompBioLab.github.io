@@ -10,7 +10,6 @@ excerpt: "Members of the Cancer Computational Biology and their research interes
 
 <img src="/images/seoane.jpg" alt="Jose A. Seoane" width="30%" align="left" hspace="20" vspace="20">
 
-
 Jose is...  <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br>
@@ -26,7 +25,7 @@ __More information:__
 ### you?
 
 <img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Grad students
 
