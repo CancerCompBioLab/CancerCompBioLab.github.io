@@ -15,9 +15,6 @@ Jose is Principal Investigator at the Vall d'Hebron Insitute of Oncology (Barcel
 Dr Seoane is a cancer computational biologist and his main interest is how different layers of (epi)genomic data can be integrated in order to establish a holistic view of the molecular mechanism underlying cancer initiation, progression, drug resistance and metastasis.
 
 Dr Seoane holds a Ramon y Cajal grant from the Spanish Ministry of Science and Innovation.
-<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br>
 <br><br>
 
 __More information:__
