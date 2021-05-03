@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: 
 excerpt: "Cancer Computational Biology group at VHIO."
 search_omit: true
 ---
