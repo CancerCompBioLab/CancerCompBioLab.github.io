@@ -118,7 +118,7 @@ title: Publications
 
 {:.paper}
 <span>A pathway-based data integration framework for prediction of disease progression</span>{:.papertitle}  
-<span>**Jose A Seoane*, Ian NM Day, Tom R Gaunt, Colin Campbell</span>{:.authors}<br>
+<span>**Jose A Seoane**, Ian NM Day, Tom R Gaunt, Colin Campbell</span>{:.authors}<br>
 <span>_Bioinformatics_, 30(6):838-845, Mar. 2014</span>{:.journal}  
 <span>**URL:**[https://academic.oup.com/bioinformatics/article-abstract/30/6/838/285849](https://academic.oup.com/bioinformatics/article-abstract/30/6/838/285849)</span>{:.doi}
 
