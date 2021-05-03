@@ -6,6 +6,28 @@ title: Publications
 [//]:# Selected Publications
 [//]:# ---
 
+### 2021
+
+{:.paper}
+<span>The AMBRA1 E3 ligase adaptor regulates the stability of cyclin D</span>{:.papertitle}  
+<span>Andrea C Chaikovsky, Chuan Li, Edwin E Jeng, Samuel Loebell, Myung Chang Lee, Christopher W Murray, Ran Cheng, Janos Demeter, Danielle L Swaney, Si-Han Chen, Billy W Newton, Jeffrey R Johnson, Alexandros P Drainas, Yan Ting Shue, **Jose A Seoane**, Preethi Srinivasan, Andy He, Akihiro Yoshida, Susan Q Hipkins, Edel McCrea, Carson D Poltorack, Nevan J Krogan, J Alan Diehl, Christina Kong, Peter K Jackson, Christina Curtis, Dmitri A Petrov, Michael C Bassik, Monte M Winslow, Julien Sage</span>{:.authors}<br>
+<span>_Nature_, 592:794-798 ,, Apr. 2021</span>{:.journal}  
+<span>**URL:**[https://www.nature.com/articles/s41586-021-03474-7](https://www.nature.com/articles/s41586-021-03474-7)</span>{:.doi}
+
+{:.paper}
+<span>Cell of Origin Influences Pancreatic Cancer Subtype</span>{:.papertitle}  
+<span>Brittany M Flowers, Hang Xu, Abigail S Mulligan, Kathryn J Hanson, **Jose A Seoane**, Hannes Vogel, Christina Curtis, Laura D Wood, Laura D Attardi</span>{:.authors}<br>
+<span>_Cancer Discovery_, 11(3):660-677 ,, March. 2021</span>{:.journal}  
+<span>**URL:**[https://cancerdiscovery.aacrjournals.org/content/11/3/660.abstract](https://cancerdiscovery.aacrjournals.org/content/11/3/660.abstract)</span>{:.doi}
+
+{:.paper}
+<span>A CRISPR/Cas9-engineered ARID1A-deficient human gastric cancer organoid model reveals essential and non-essential modes of oncogenic transformation</span>{:.papertitle}  
+<span>Yuan-Hung Lo, Kevin S Kolahi, Yuhong Du, Chiung-Ying Chang, Andrey Krokhotin, Ajay Nair, Walter D Sobba, Kasper Karlsson, Sunny J Jones, Teri A Longacre, Amanda T Mah, Bahar Tercan, Alexandra Sockell, Hang Xu, **Jose A Seoane**, Jin Chen, Ilya Shmulevich, Jonathan S Weissman, Christina Curtis, Andrea Califano, Haian Fu, Gerald R Crabtree, Calvin J Kuo</span>{:.authors}<br>
+<span>_Cancer Discovery_, Jan. 2021</span>{:.journal}  
+<span>**URL:**[https://cancerdiscovery.aacrjournals.org/content/early/2021/01/14/2159-8290.CD-20-1109](https://cancerdiscovery.aacrjournals.org/content/early/2021/01/14/2159-8290.CD-20-1109)</span>{:.doi}
+
+
+
 ### 2020
 
 {:.paper}
@@ -63,3 +85,43 @@ title: Publications
 <span>Michael F Press, **Jose A Seoane**, Christina Curtis, Emmanuel Quinaux, Roberta Guzman, Guido Sauter, Wolfgang Eiermann, John R Mackey, Nicholas Robert, Tadeusz Pienkowski, John Crown, Miguel Martin, Vicente Valero, Valerie Bee, Yanling Ma, Ivonne Villalobos, Dennis J Slamon</span>{:.authors}<br>
 <span>_JAMA oncology_, 5(3):366-375, Mar. 2019</span>{:.journal}  
 <span>**URL:**[jamanetwork.com/journals/jamaoncology/article-abstract/2718266](https://jamanetwork.com/journals/jamaoncology/article-abstract/2718266)</span>{:.doi}
+
+### 2018
+
+{:.paper}
+<span>The chromatin accessibility landscape of primary human cancers</span>{:.papertitle}  
+<span>M Ryan Corces, Jeffrey M Granja, Shadi Shams, Bryan H Louie, **Jose A Seoane**, Wanding Zhou, Tiago C Silva, Clarice Groeneveld, Christopher K Wong, Seung Woo Cho, Ansuman T Satpathy, Maxwell R Mumbach, Katherine A Hoadley, A Gordon Robertson, Nathan C Sheffield, Ina Felau, Mauro AA Castro, Benjamin P Berman, Louis M Staudt, Jean C Zenklusen, Peter W Laird, Christina Curtis, William J Greenleaf, Howard Y Chang</span>{:.authors}<br>
+<span>_Science_, 362(6413), Oct. 2018</span>{:.journal}  
+<span>**URL:**[https://science.sciencemag.org/content/362/6413/eaav1898.abstract](https://science.sciencemag.org/content/362/6413/eaav1898.abstract)</span>{:.doi}
+
+{:.paper}
+<span>Comparative molecular analysis of gastrointestinal adenocarcinomas</span>{:.papertitle}  
+<span>Yang Liu, Nilay S Sethi, Toshinori Hinoue, Barbara G Schneider, Andrew D Cherniack, Francisco Sanchez-Vega, **Jose A Seoane**, Farshad Farshidfar, Reanne Bowlby, Mirazul Islam, Jaegil Kim, Walid Chatila, Rehan Akbani, Rupa S Kanchi, Charles S Rabkin, Joseph E Willis, Kenneth K Wang, Shannon J McCall, Lopa Mishra, Akinyemi I Ojesina, Susan Bullman, Chandra Sekhar Pedamallu, Alexander J Lazar, Ryo Sakai,TCGA consortium, VésteinnThorsson, Adam J.Bass and Peter W.Laird</span>{:.authors}<br>
+<span>_Cancer Cell_, 33(4):721-735, April 2018</span>{:.journal}  
+<span>**URL:**[https://www.sciencedirect.com/science/article/pii/S1535610818301144](https://www.sciencedirect.com/science/article/pii/S1535610818301144)</span>{:.doi}
+
+### 2017
+
+{:.paper}
+<span>Integrated genomic characterization of oesophageal carcinoma</span>{:.papertitle}  
+<span>The Cancer Genome Atlas Research Network</span>{:.authors}<br>
+<span>_Nature_, 541(7636), Jan. 2017</span>{:.journal}  
+<span>**URL:**[https://www.nature.com/articles/nature20805](https://www.nature.com/articles/nature20805)</span>{:.doi}
+
+### 2014
+
+{:.paper}
+<span>Canonical correlation analysis for gene-based pleiotropy discovery</span>{:.papertitle}  
+<span>**Jose A Seoane**, Colin Campbell, Ian NM Day, Juan P Casas, Tom R Gaunt</span>{:.authors}<br>
+<span>_PLoS Computational Biology_, 10(10), Oct. 2014</span>{:.journal}  
+<span>**URL:**[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003876](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003876)</span>{:.doi}
+
+{:.paper}
+<span>A pathway-based data integration framework for prediction of disease progression</span>{:.papertitle}  
+<span>**Jose A Seoane*, Ian NM Day, Tom R Gaunt, Colin Campbell</span>{:.authors}<br>
+<span>_Bioinformatics_, 30(6):838-845, Mar. 2014</span>{:.journal}  
+<span>**URL:**[https://academic.oup.com/bioinformatics/article-abstract/30/6/838/285849](https://academic.oup.com/bioinformatics/article-abstract/30/6/838/285849)</span>{:.doi}
+
+
+
+
