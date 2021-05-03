@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 
+title: Welcome
 excerpt: "Cancer Computational Biology group at VHIO."
 search_omit: true
 ---
-
-# Welcome to the Cancer Computational Biology group site.
-
 
 The Cancer Computational Biology lab at VHIO leverage epi(genetic) cancer datasets in order to discover the molecular mechanism related with cancer initiation, progression, drug resistance and metastasis in order to improve patient perspectives.
 
