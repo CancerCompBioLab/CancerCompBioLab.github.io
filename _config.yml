@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Cancer Computational Biology Lab at VHIO
-email: seoane.ja@gmail.com
+email: jaseoane@vhio.net
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -44,8 +44,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
