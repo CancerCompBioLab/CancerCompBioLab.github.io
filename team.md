@@ -24,15 +24,21 @@ __More information:__
 
 ## Postdocs
 
-### you?
+### Silvana Maas
+<img src="/images/silvana.png" alt="question mark" width="30%" align="left" hspace="20" vspace="20">
 
-<img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
-Open postdoctoral position at [VHIO](https://www.vhio.net/ref-17-2021-postdoctoral-researcher-in-computational-biology/)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+During my doctoral training, I focused on the association of epigenetic alterations with lifestyle and disease risk. My projects were embedded in large cohort studies and in international collaborations in consortia. My expertise includes investigating multi-omics layers (epigenomics, transcriptomics, microRNAs) as possible biomarkers for disease risk, lifestyle inference, and as potential mediators between lifestyle factors and disease risk. My current interests are in the (epi)genetic mechanisms and lifestyle factors involved in cancer development, progression, and drug resistance.
+I have a background in Biology and Applied Medical Laboratory Technology with a major in Forensic Laboratory Research (BSc) and Genetic Epidemiology (MSc)
+
+<br><br><br><br><br><br>
 
 ## Grad students
 
 ### you?
 
+Open grad student positions. Please contact jaseoane@vhio.net 
 <img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+## Visiting scholar
 
+### Jose Liñares Blanco
