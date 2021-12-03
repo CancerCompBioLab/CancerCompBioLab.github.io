@@ -4,7 +4,7 @@ title: Team
 excerpt: "Members of the Cancer Computational Biology and their research interests."
 ---
 
-## PI
+## Principal Investigator
 
 ### Jose A. Seoane
 
