@@ -9,6 +9,12 @@ title: Publications
 ### 2021
 
 {:.paper}
+<span>Inter-cellular CRISPR screens reveal regulators of cancer cell phagocytosis</span>{:.papertitle}  
+<span>Roarke A Kamber, Yoko Nishiga, Bhek Morton, Allison M Banuelos, Amira A Barkal, Felipe Vences-Catalán, Mingxin Gu, Daniel Fernandez, **Jose A Seoane**, David Yao, Katherine Liu, Sijie Lin, Kaitlyn Spees, Christina Curtis, Livnat Jerby-Arnon, Irving L Weissman, Julien Sage, Michael C Bassik</span>{:.authors}<br>
+<span>_Nature_, 597:549-554 ,, Sep. 2021</span>{:.journal}  
+<span>**URL:**[https://www.nature.com/articles/s41586-021-03879-4](https://www.nature.com/articles/s41586-021-03879-4)</span>{:.doi}
+
+{:.paper}
 <span>The AMBRA1 E3 ligase adaptor regulates the stability of cyclin D</span>{:.papertitle}  
 <span>Andrea C Chaikovsky, Chuan Li, Edwin E Jeng, Samuel Loebell, Myung Chang Lee, Christopher W Murray, Ran Cheng, Janos Demeter, Danielle L Swaney, Si-Han Chen, Billy W Newton, Jeffrey R Johnson, Alexandros P Drainas, Yan Ting Shue, **Jose A Seoane**, Preethi Srinivasan, Andy He, Akihiro Yoshida, Susan Q Hipkins, Edel McCrea, Carson D Poltorack, Nevan J Krogan, J Alan Diehl, Christina Kong, Peter K Jackson, Christina Curtis, Dmitri A Petrov, Michael C Bassik, Monte M Winslow, Julien Sage</span>{:.authors}<br>
 <span>_Nature_, 592:794-798 ,, Apr. 2021</span>{:.journal}  
