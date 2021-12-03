@@ -33,12 +33,17 @@ I have a background in Biology and Applied Medical Laboratory Technology with a 
 <br><br><br><br><br><br>
 
 ## Grad students
-
-### you?
-
-Open grad student positions. Please contact jaseoane@vhio.net 
-<img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
-<br><br><br><br><br><br><br><br><br><br><br><br>
-## Visiting scholar
-
 ### Jose Liñares Blanco
+<img src="/images/linares_Photo.jpg" alt="question mark" width="30%" align="left" hspace="20" vspace="20">
+
+With a multidisciplinary background in Molecular Biology (BSc) and Bioinformatics (MSc), I am currently finishing my PhD in Computer Science.
+During this stage I have applied Machine Learning based techniques for the analysis of omics data in large cohorts of cancer patients for the search of new diagnostic and treatment strategies.
+My current interests are focused on the development and application of new statistical, computational and Machine Learning methods capable of analyzing in an integrated manner multi-omics data.
+<br><br><br><br><br><br><br><br><br><br><br><br>
+### you?
+Open grad student positions. Please contact jaseoane@vhio.net 
+<br><br>
+## Master students
+### Arnau Llinàs Bertran
+<img src="/images/question_mark.jpg" alt="question mark" width="40%" align="left" hspace="20" vspace="20">
+
