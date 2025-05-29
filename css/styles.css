@@ -1,0 +1,321 @@
+:root {
+    --light-blue: #8DAACE;
+    --dark-blue: #406187;
+    --highlight-yellow: #ffc107;
+  }
+  
+/* Apply font to the entire document */
+body {
+    font-family: Arial, sans-serif; /* Use Arial or fallback to a generic sans-serif */
+}
+
+.home_image_container {
+    display: flex;
+    justify-content: center; /* Center the container within the parent */
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+    width: 100%;              /* Ensures full width of parent */
+}
+
+.home_image_container img {
+    width: 20%;               /* Set image width to 20% */
+    max-width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+
+
+.nav-header {
+    font-family: Arial, sans-serif; /* Use Arial or fallback to a generic sans-serif */
+    display: flex;
+    justify-content: space-around; /* Space links evenly */
+    align-items: center;
+    margin: 0;
+    font-size: large;
+    /* margin-left: 40px; */
+    margin-top: 30px
+}
+
+.nav-icon {
+    height: 70px;                 /* Adjust size of the icon */
+    margin-right: 15px;           /* Add space between the icon and the links */
+    /* margin-left: 20%; */
+    margin-top: -10px;
+    
+}
+Reset styling
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Full-page container */
+.home_main {
+    display: flex;                /* Use flexbox for the layout */
+    width: 100%;                  /* Full width of the page */
+    height: auto;                /* Full height of the viewport */
+    padding-bottom: 200px;
+    color: var(--dark-blue);
+}
+
+.group_picture{
+    width: 70%;
+    border-radius: 5px;
+}
+.news {
+    flex: 2;
+    padding: 20px;                /* Add some padding for content */
+    position: relative;           /* Needed for positioning */
+    align-items: center;
+    margin-top: 10px;
+    color: var(--dark_blue);
+    margin-left: 1%;
+    background-color: #c3dfff37;
+    height: 100%;
+}
+
+.news::after {
+    content: "";                  /* Create a visual element */
+    position: absolute;
+    top: 0px;                    
+    bottom:0px;                 /* End the border 20px from the bottom */
+    right: 0;                     /* Place the border on the right edge */
+    width: 1px;                   /* Border width */
+    background-color: #ccc;       /* Border color */
+}
+
+.main-div-home {
+    display: flex;              /* Use flexbox to align children */
+    flex-direction: column;     /* Stack child elements vertically */
+    /* justify-content: center;    Center content vertically */
+    align-items: center;        /* Center content horizontally */
+    flex: 10;                   /* Takes 10 parts of the flex container */
+    color: var(--dark-blue);
+    background-color: #ffffff; /* White background */
+    padding: 50px;              /* Add some padding for content */
+    line-height: 1.5;
+    width: 100%;                /* Ensure it takes full width of the container */
+    /* box-sizing: border-box;     Include padding in the width calculation */
+}
+
+.left-title {
+    align-self: flex-start; /* ← makes just this item align to the left */
+  }
+
+/* Global Link Styles */
+a {
+    color: var(--light-blue);  /* Default link color */
+    text-decoration: none;  /* Remove underline */
+    transition: color 0.3s ease;  /* Smooth transition for color change */
+}
+
+/* Hover state for links */
+a:hover {
+    color: #285483;  /* Change color on hover */
+    text-decoration: underline;  /* Add underline on hover */
+}
+
+/* Focus state for links (important for accessibility) */
+a:focus {
+    outline: 2px solid #285483;  /* Highlight link when focused */
+    text-decoration: none;
+}
+
+
+/* Customize the <hr> */
+hr {
+    border: none;            /* Remove default border */
+    border-top: 1px solid #b5bbc1; /* Set a custom color and thickness */
+    width: 98%;              /* Set the width of the line */
+    margin-top: 15px;
+    /* margin-left: 5%; */
+        
+    
+}
+
+/* ################################################################################################ */
+/* News for home
+/* ################################################################################################ */
+
+
+.news_main {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    width: 90%;
+    padding: 20px;
+    background-color: #7ea2cf17;
+    border-radius: 10px;
+    margin: 20px 0;
+    align-self: flex-start; /* <-- ensures it aligns left in a centered parent */
+  }
+  
+.news-image img {
+width: 150px;
+height: auto;
+border-radius: 8px;
+}
+
+.news-text {
+flex: 1;;
+}
+
+.news-text h3 {
+margin: 0 0 10px;
+}
+
+
+/* Text Styling */
+.text {
+    flex: 1;                      /* Allow text to take up remaining space */
+    font-size: 1em;
+    line-height: 1.5;
+    color: var(--dark-blue);
+}
+
+.image-member-wrapper {
+    text-align: center;
+  }
+  
+.image-member-caption {
+    font-size: 1.em;
+    color: #5075a2;
+    margin-top: 5px;
+  }
+  
+
+/* ################################################################################################ */
+/* Footer Styling */
+/* ################################################################################################ */
+
+.footer {
+    background-color: #333; /* Dark background */
+    color: #fff;           /* White text */
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;              /* Makes footer responsive */
+    justify-content: space-between; /* Evenly distribute columns */
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;               /* Center footer content */
+}
+
+.footer-column {
+    flex: 1;                      /* Equal width columns */
+    min-width: 250px;             /* Minimum size for columns */
+}
+
+.footer-column h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color:var(--light-blue); /* Optional: Add color to headings */
+}
+
+.footer-column p,
+.footer-column ul,
+.footer-column a {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.footer-column ul {
+    list-style-type: none;        /* Remove bullet points */
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+
+.footer-column a {
+    color:#a7caf3;               /* Link color */
+    text-decoration: none;        /* No underline */
+}
+
+.footer-column a:hover {
+    text-decoration: underline;   /* Underline on hover */
+}
+
+/* Social Media Icons */
+.social-icons {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* space between image and text */
+  }
+.social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-icons img {
+    width: 30px;                  /* Icon size */
+    height: 30px;
+    border-radius: 50%;           /* Optional: Circular icons */
+    transition: transform 0.3s ease; /* Hover animation */
+}
+
+.social-icons img:hover {
+    transform: scale(1.2);        /* Slightly enlarge on hover */
+}
+
+/* Footer Bottom */
+.footer-bottom {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    border-top: 1px solid #444;   /* Optional separator line */
+    padding-top: 20px;
+}
+
+
+
+
+  /* ######################### */
+  /* Sponsors
+  /* ######################### */
+
+.logos-section {
+text-align: center;
+margin: 20px auto;
+width: 90%;
+/* max-width: 1000px; */
+margin-top: -200px;
+margin-bottom: 50px;
+}
+
+.logos-title {
+font-size: 1.8em;
+color: var(--dark-blue);
+margin-bottom: 30px;
+}
+
+.logos-wrapper {
+display: flex;
+flex-wrap: wrap;              /* Allow logos to wrap if they overflow */
+gap: 40px;                    /* Space between logos */
+justify-content: center;     /* Center logos horizontally */
+align-items: center;         /* Vertically align logos in rows */
+padding-top: 20px;
+padding-bottom: 20px;
+/* padding: 30px; */
+background-color: #f8f9fb;   /* Optional soft background */
+border-radius: 12px;         /* Optional rounded corners */
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05); /* Optional subtle shadow */
+}
+
+.logos-wrapper img {
+max-height: 200px;            /* Uniform height */
+max-width: 270px;            /* Prevent super wide logos */
+object-fit: contain;         /* Keep the aspect ratio */
+padding: 10px;
+background-color: white;     /* Optional: keeps logos readable */
+border-radius: 8px;
+box-shadow: 0 1px 4px rgba(0,0,0,0.1); /* Subtle border feel */
+}
+  

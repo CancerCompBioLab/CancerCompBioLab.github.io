@@ -1,0 +1,237 @@
+
+/* ################################################################################################ */
+/* styles for image in the team page */
+/* ################################################################################################ */
+
+
+.main-div-team {
+    display: flex;
+    flex-direction: column;     /* Stack the content vertically */
+    align-items: center;        /* Center the container horizontally */
+    justify-content: flex-start; /* Align content to the top */
+    width: 80%;                  /* Set width of the centered container */
+    margin: 0 auto;              /* Center the container horizontally */
+    color: var(--dark-blue);
+    background-color: #ffffff;
+    margin-top: 50px;
+    
+}
+
+
+
+/* Remove .three-column-main and .column styles, not needed */
+.our_team_div {
+    background-color:#7ea2cf17;  /* Light background */
+    margin-top: 40px;
+    padding: 50px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    width: 95%;
+    /* margin: 50px auto; */
+    color: var(--dark-blue);
+  }
+  
+.our_team_div h1, .our_team_div h2 {
+    text-align: center;
+    color: var(--dark-blue);
+    margin-bottom: 20px;
+  }
+
+.team-leader-block {
+  margin-bottom: 50px;
+  margin-top: -30px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centers the inner subblock */
+  text-align: center;
+}
+  
+  .team-members-section {
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .team-members-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    justify-items: center;
+    margin-top: 30px;
+    /* max-width: 1000px; Optional: keeps the grid from growing too wide */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* Reuse your existing .subblock styles */
+  .subblock {
+    display: flex;
+    align-items: center;
+    background-color: #f4f8fb;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    min-height: 120px;
+    width: 330px; /* fixed width ensures alignment */
+  }
+  
+  .subblock img {
+    flex-shrink: 0;          /* prevent the image from shrinking */
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 15px;
+  }
+  
+  .text-lines {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;       /* <-- Thifs makes the text align left */
+    padding-left: 5px;      /* Optional: slight buffer between text and image */
+  }
+  
+  .text-lines p {
+    margin: 2px 0;
+    font-size: 0.95em;
+    color: var(--dark-blue);
+  }
+  
+  /* First line styles */
+.text-lines p:first-child {
+    font-size: 1.1em;
+    font-weight: 600;
+    /* text-align: center; */
+    margin-bottom: 10px;
+  }
+
+  .alumni-block {
+    padding-top: 40px;
+  }
+.alumni-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    width: 100%;
+    /* max-width: 900px; or whatever fits your layout */
+    margin: 0 auto;
+    text-align: left;
+  }
+.alumni-list li {
+    text-align: left;       /* <-- Thifs makes the text align left */
+    margin-bottom: 10px; /* Adds vertical spacing between list items */
+}
+
+
+
+.image-group-container {
+    display: flex;                /* Use flexbox for centering */
+    justify-content: center;      /* Centers the image horizontally */
+    align-items: center;          /* Centers the image vertically */
+    height: 100vh;                /* Full height of the viewport */
+    width: 100%;                  /* Full width of the viewport */
+    margin: 0 auto;               /* Ensures the container itself is centered */
+    /* margin-top: -50px; */
+}
+
+.image-group-container img {
+    width: 50%;                   /* Fixed width at 50% of the container */
+    height: auto;                 /* Adjust height to maintain aspect ratio */
+}
+
+
+.names-list {
+    list-style-type: none;        /* Remove default list styling */
+    padding: 0;
+}
+
+.names-list li {
+    margin: 4px 0;               /* Add space between list items */
+}
+
+
+.names-list a:hover {
+    text-decoration: underline;   /* Add underline on hover */
+}
+
+/* Sub Divs */
+.sub-div {
+    display: flex;                /* Align image and text horizontally */
+    align-items: center;          /* Vertically align content */
+    justify-content: space-between; /* Add spacing between image and text */
+    width: 80%;                   /* Full width for the sub-div */
+    /* border: 1px solid #ccc;       Optional border */
+    padding: 20px;
+    background-color: #7ea2cf17;    /* Light gray background */
+    gap: 20px;                    /* Add some spacing between image and text */
+    border-radius:10px;
+    margin-bottom: 80px;
+}
+
+.type-2 a{
+    color: #5075a2;  /* Default link color */
+    text-decoration: none;  /* Remove underline */
+    transition: color 0.3s ease;  /* Smooth transition for color change */
+
+}
+
+.type-2 a:focus {
+    outline: 2px solid #023367;  /* Change color on hover */
+    text-decoration: none;
+}
+
+.type-2 a:hover {
+    color: #023367;  /* Change color on hover */
+    text-decoration: underline;  /* Add underline on hover */
+}
+
+.type-1 a{
+    color: #5075a2;  /* Default link color */
+    text-decoration: none;  /* Remove underline */
+    transition: color 0.3s ease;  /* Smooth transition for color change */
+
+}
+
+.type-1 a:focus {
+    outline: 2px solid #023367;  /* Change color on hover */
+    text-decoration: none;
+}
+
+.type-1 a:hover {
+    color: #023367;  /* Change color on hover */
+    text-decoration: underline;  /* Add underline on hover */
+}
+
+/* Type 1: Image Left, Text Right */
+.type-1 .image-member {
+    order: 1;                     /* Ensure image appears first */
+}
+
+.type-1 .text {
+    order: 2;
+    color:#44607d
+}
+
+/* Type 2: Image Right, Text Left */
+.type-2 .image-member {
+    order: 2;                     /* Image appears second */
+}
+
+.type-2 .text {
+    order: 1;                     /* Text appears first */
+    color:#44607d
+}
+
+.image-member {
+    flex: 1;                      /* Allow image to take 1/3 of the container */
+    max-width: 30%;               /* Constrain the image width to 1/3 */
+    display: flex;                /* Flex container for the image */
+    justify-content: center;      /* Center the image horizontally */
+    align-items: center;          /* Center the image vertically */
+}
+.image-member img {
+    width: 80%;                  /* Ensure image scales within its container */
+    height: auto;                 /* Maintain aspect ratio */
+    border-radius: 8px;           /* Optional rounded corners */
+}
