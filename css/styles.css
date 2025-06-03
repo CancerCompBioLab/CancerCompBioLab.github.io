@@ -25,6 +25,49 @@ body {
     border-radius: 8px;
 }
 
+/* Hide all news items by default */
+.news_main {
+  display: none;
+  align-items: flex-start;
+  gap: 20px;
+  width: 90%;
+  padding: 20px;
+  background-color: #7ea2cf17;
+  border-radius: 10px;
+  margin: 20px 0;
+  align-self: flex-start;
+}
+
+/* Show only the first 4 news items by default */
+.news_main:nth-child(-n+4) {
+  display: flex;
+}
+
+/* Show all when .visible class is added */
+.news_main.visible {
+  display: flex;
+}
+
+/* Make sure the container is visible */
+#news-container {
+  display: block; /* or just remove any display: none */
+}
+
+#toggleNewsBtn {
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  background-color: var(--light-blue);
+  color: white;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+#toggleNewsBtn:hover {
+  background-color: var(--dark-blue);
+}
+
+
 
 .nav-header {
     font-family: Arial, sans-serif; /* Use Arial or fallback to a generic sans-serif */
@@ -140,18 +183,6 @@ hr {
 /* ################################################################################################ */
 
 
-.news_main {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
-    width: 90%;
-    padding: 20px;
-    background-color: #7ea2cf17;
-    border-radius: 10px;
-    margin: 20px 0;
-    align-self: flex-start; /* <-- ensures it aligns left in a centered parent */
-  }
-  
 .news-image img {
 width: 150px;
 height: auto;
