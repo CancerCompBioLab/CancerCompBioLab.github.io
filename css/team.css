@@ -3,6 +3,19 @@
 /* styles for image in the team page */
 /* ################################################################################################ */
 
+html {
+  scroll-behavior: smooth;
+}
+
+.image-link img {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.image-link:hover img {
+  transform: scale(1.05);
+}
+
 
 .main-div-team {
     display: flex;
