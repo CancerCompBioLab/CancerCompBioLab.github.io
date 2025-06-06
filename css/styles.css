@@ -107,7 +107,7 @@ Reset styling
     width: 70%;
     border-radius: 5px;
 }
-.news {
+.news-sidebar {
     flex: 2;
     padding: 20px;                /* Add some padding for content */
     position: relative;           /* Needed for positioning */
@@ -116,7 +116,13 @@ Reset styling
     color: var(--dark_blue);
     margin-left: 1%;
     background-color: #c3dfff37;
-    height: 100%;
+    margin-bottom: 1000px;
+    max-height: 1000px; /* Adjust as needed */
+    overflow-y: auto;  /* Enables scroll if content overflows */
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
 }
 
 .news::after {
