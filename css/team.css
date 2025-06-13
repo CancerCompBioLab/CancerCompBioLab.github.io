@@ -48,6 +48,7 @@ html {
     text-align: center;
     color: var(--dark-blue);
     margin-bottom: 20px;
+    
   }
 
 .team-leader-block {
@@ -223,7 +224,9 @@ html {
 
 .type-1 .text {
     order: 2;
-    color:#44607d
+    color:#44607d ;
+    padding-right: 20px;
+    text-align: justify;
 }
 
 /* Type 2: Image Right, Text Left */
@@ -233,7 +236,9 @@ html {
 
 .type-2 .text {
     order: 1;                     /* Text appears first */
-    color:#44607d
+    color:#44607d ;
+    padding-left: 20px;
+    text-align: justify;
 }
 
 .image-member {
