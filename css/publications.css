@@ -116,3 +116,16 @@
     text-decoration: underline;
   }
   
+.pub-toggle {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  color: #406187;
+}
+
+#master-toggle-icon {
+  margin-right: 8px;
+  transition: transform 0.3s ease;
+}
