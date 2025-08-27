@@ -171,15 +171,16 @@ html {
 
 /* Sub Divs */
 .sub-div {
-    display: flex;                /* Align image and text horizontally */
-    align-items: center;          /* Vertically align content */
-    justify-content: space-between; /* Add spacing between image and text */
-    width: 80%;                   /* Full width for the sub-div */
-    /* border: 1px solid #ccc;       Optional border */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Changed from space-between to center */
+    max-width: 900px; /* Optional: This will cap the width on large screens */
+    width: 100%; /* Changed from 80% */
+    margin: 0 auto; /* This is key for centering */
     padding: 20px;
-    background-color: #7ea2cf17;    /* Light gray background */
-    gap: 20px;                    /* Add some spacing between image and text */
-    border-radius:10px;
+    background-color: #7ea2cf17;
+    gap: 20px;
+    border-radius: 10px;
     margin-bottom: 80px;
 }
 
@@ -252,4 +253,22 @@ html {
     width: 80%;                  /* Ensure image scales within its container */
     height: auto;                 /* Maintain aspect ratio */
     border-radius: 8px;           /* Optional rounded corners */
+}
+
+.alumni-link {
+    text-align: center;
+    margin: 80px 0; /* Adds some vertical space above and below the link */
+}
+
+.alumni-link a {
+    font-size: 1.5em; /* Makes the font 20% larger than the default */
+    font-weight: 500;
+    color: #44607d;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.alumni-link a:hover {
+    text-decoration: underline;
+    color: #44607d;
 }
