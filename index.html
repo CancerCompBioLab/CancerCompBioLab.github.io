@@ -6,11 +6,11 @@
     // Optional: smart redirect based on browser language
     const lang = navigator.language || navigator.userLanguage;
     if (lang.startsWith('es')) {
-      window.location.replace('/es/index.html');
-    } else if (lang.startsWith('fr')) {
-      window.location.replace('/fr/index.html');
+      window.location.replace('./es/index.html');
+    } else if (lang.startsWith('cat')) {
+      window.location.replace('./cat/index.html');
     } else {
-      window.location.replace('/en/index.html');
+      window.location.replace('./en/index.html');
     }
   </script>
 </head>
