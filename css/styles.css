@@ -508,3 +508,21 @@ box-shadow: 0 1px 4px rgba(0,0,0,0.1); /* Subtle border feel */
 .image-link:hover img {
   transform: scale(1.05);
 }
+
+.language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 0.95em;
+}
+
+.language-switcher a {
+  color: #023367;
+  text-decoration: none;
+  margin: 0 5px;
+  font-weight: 500;
+}
+
+.language-switcher a:hover {
+  text-decoration: underline;
+}
