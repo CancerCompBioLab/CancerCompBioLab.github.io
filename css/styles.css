@@ -156,9 +156,23 @@ body {
 }
 
 /* Hide all news items by default */
+.about_us {
+  text-align:justify;
+  align-items: center;
+  gap: 20px;
+  width: 90%;
+  padding: 20px;
+  background-color: #7ea2cf17;
+  border-radius: 10px;
+  margin: 20px 0;
+  /* align-self: flex-start;
+  flex-wrap: wrap; */
+}
+
+/* Hide all news items by default */
 .news_main {
   display: none;
-  align-items: flex-start;
+  align-items: center;
   gap: 20px;
   width: 90%;
   padding: 20px;
@@ -319,6 +333,10 @@ hr {
 /* News for home
 /* ################################################################################################ */
 
+.news-image {
+  display: flex;
+  align-items: center;
+}
 
 .news-image img {
 width: 150px;
