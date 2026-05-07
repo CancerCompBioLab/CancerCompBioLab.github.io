@@ -1,0 +1,103 @@
+@media screen and (max-width: 768px) {
+  /* Center the main container */
+  .main-div-RL {
+    width: 95% !important;       /* Override inline width */
+    margin: 0 auto !important;   /* Override inline margin-left */
+    display: flex;
+    flex-direction: column;
+    align-items: center;         /* Center children horizontally */
+    padding: 0;
+  }
+
+  .RL-block h3 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+  }
+
+  /* Stack image and text vertically */
+  .RL-with-image {
+    flex-direction: column !important;  /* Force vertical stacking */
+    align-items: center;                 /* Center horizontally */
+    justify-content: flex-start;         /* Align content to top */
+    gap: 15px;                           /* Spacing between image and text */
+    width: 100%;
+  }
+
+  /* Center and resize the image */
+  .RL-icon-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .RL-icon,
+  .RL-icon-strat,
+  .RL-icon-2 {
+    width: auto;
+    max-width: 70%; /* Adjust to make image smaller on mobile */
+    height: auto;
+    margin: 0 auto;
+  }
+
+  /* Center and constrain text */
+  .RL-with-image p {
+    margin: 0 auto !important;   /* Remove any leftover left/right margin */
+    width: 90%;                  /* Constrain width inside the block */
+    text-align: center !important; /* Center the text horizontally */
+  }
+}
+
+
+
+.RL-block {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    max-width: 100%;
+    align-self: flex-start;
+    color: #023367;
+    background-color: #7ea2cf17; /* Light blueish background */
+    border-radius: 12px;         /* Rounded corners */
+    padding: 30px;               /* Padding inside the block */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05); /* Optional: subtle shadow */
+}
+
+.RL-with-image {
+    display: flex;
+    align-items: flex-start;  /* Align image with the top of the paragraph */
+    gap: 20px;                /* Space between image and text */
+    /* margin-top: 10px; */
+}
+
+.RL-with-image p {
+    margin: 0;
+    margin-left: 50px;
+    line-height: 1.6;
+}
+
+.RL-with-image h3 {
+    margin: 0;
+    margin-left: 50px;
+    line-height: 1.6;
+}
+
+.RL-icon {
+    margin-top: 20px;
+    height: 200px;
+    width: auto;
+    transform: scaleY(1.1); /* Optional: slight vertical scaling if needed */
+}
+
+.RL-icon-strat {
+    margin-top: 20px;
+    height: 200px;
+    width: 250px;
+    transform: scaleY(1.1); /* Optional: slight vertical scaling if needed */
+}
+
+.RL-icon-2 {
+    margin-top: 50px;
+    height: 180px;
+    width: 180px;
+    transform: scaleY(1.1); /* Optional: slight vertical scaling if needed */
+}
